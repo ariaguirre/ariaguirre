@@ -1,4 +1,4 @@
-<h1 align="center">Hola <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> , soy Ariana!</h1>
+<h1 align="center">Hola, soy Ariana! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <h3 align="center">Full Stack Web Developer🌄</h3>
 
 Soy una desarrolladora Full Stack en busca de oportunidades para trabajar con un equipo en proyectos donde pueda utilizar y mejorar las habilidades y conocimientos adquiridos en estos ultimos años. Cuento con experiencia en en el desarrollo de páginas web, abarcando todas las etapas del proceso, desde la configuración de bases de datos hasta la implementación del back-end y el front-end.
