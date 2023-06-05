@@ -1,11 +1,12 @@
 <h1 align="center">Hola <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> , soy Ariana!</h1>
 <h3 align="center">Full Stack Web Developer🌄</h3>
-<br/>
-Soy una desarrolladora Full Stack en busca de oportunidades para trabajar con un equipo en proyectos donde pueda utilizar y mejorar las habilidades y conocimientos adquiridos en estos ultimos años. Cuento con experiencia en en el desarrollo de páginas web, abarcando todas las etapas del proceso, desde la configuración de bases de datos hasta la implementación del back-end y el front-end. 
+
+Soy una desarrolladora Full Stack en busca de oportunidades para trabajar con un equipo en proyectos donde pueda utilizar y mejorar las habilidades y conocimientos adquiridos en estos ultimos años. Cuento con experiencia en en el desarrollo de páginas web, abarcando todas las etapas del proceso, desde la configuración de bases de datos hasta la implementación del back-end y el front-end.
 
 Soy una profesional proactiva y entusiasta, siempre dispuesta a enfrentar nuevos desafíos y aprender cosas nuevas. Estoy constantemente buscando oportunidades para ampliar mi conjunto de habilidades y adquirir experiencia en nuevas áreas de desarrollo.
 
 Estoy en busca de oportunidades emocionantes para trabajar en equipo en proyectos desafiantes. Mi objetivo es utilizar y mejorar las habilidades y conocimientos adquiridos en mi formación como desarrolladora Full Stack. Aspiro a seguir creciendo profesionalmente, explorando nuevas tecnologías y enfrentando desafíos que me permitan expandir mi expertise y aportar valor a los proyectos en los que participe.
+<br/>
 <br/>
 
 ### Tecnologías
@@ -40,6 +41,8 @@ Version Control | Git & Github.
 
 Project Management | Slack & Trello.
 <br/>
+<br/>
+  
 ### Contacto
 Mail: ariaguirre64@gmail.com 
   
