@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Ariana! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <h3 align="center">Full Stack Web Developer🌄</h3>
 
-Soy una desarrolladora Full Stack en busca de oportunidades para trabajar con un equipo en proyectos donde pueda utilizar y mejorar las habilidades y conocimientos adquiridos en estos ultimos años. Cuento con experiencia en en el desarrollo de páginas web, abarcando todas las etapas del proceso, desde la configuración de bases de datos hasta la implementación del back-end y el front-end.
+Soy una desarrolladora Full Stack con experiencia en el desarrollo de páginas web, abarcando todas las etapas del proceso, desde la configuración de bases de datos hasta la implementación del back-end y el front-end. Siempre en busca de oportunidades para trabajar con un equipo en proyectos donde pueda utilizar y mejorar las habilidades y conocimientos adquiridos en estos ultimos años. 
 
 Soy una profesional proactiva y entusiasta, siempre dispuesta a enfrentar nuevos desafíos y aprender cosas nuevas. Estoy constantemente buscando oportunidades para ampliar mi conjunto de habilidades y adquirir experiencia en nuevas áreas de desarrollo.
 
