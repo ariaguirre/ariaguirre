@@ -39,7 +39,7 @@ Metodología | Scrum.
 
 Version Control | Git & Github.
 
-Project Management | Slack & Trello.
+Project Management | Slack, Jira & Trello.
 <br/>
 <br/>
   
