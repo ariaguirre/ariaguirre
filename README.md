@@ -14,7 +14,7 @@ I am currently seeking exciting opportunities to work collaboratively on challen
 <br/>
 <br/>
 
-### Tecnologías
+### :small_red_triangle_down: Tecnologías
 Backend | Javascript, Python, Typescript, NodeJs, Express, Django, Jest, PostgreSQL, Sequelize & Firebase.
 
 Frontend | React, Redux, Toolkit, HTML, CSS, Tailwind CSS, Bootstrap & MaterialUi.
@@ -27,7 +27,7 @@ Project Management | Slack, Jira & Trello.
 <br/>
 <br/>
   
-### Contacto
+### :link: Contacto
 Mail: ariaguirre64@gmail.com 
   
 <a href="https://www.linkedin.com/in/arianaaguirrerubio/" target="_blank">
