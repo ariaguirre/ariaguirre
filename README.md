@@ -15,15 +15,17 @@ I am currently seeking exciting opportunities to work collaboratively on challen
 <br/>
 
 ### :small_red_triangle_down: Tecnologías
-Backend | Javascript, Python, Typescript, NodeJs, Express, Django, Jest, PostgreSQL, Sequelize & Firebase.
+Backend | Javascript, Python, Typescript, NodeJs, Express, Jquery, AJAX, Django, Flask, Jest, PostgreSQL, My SQL, Sequelize & Firebase.
 
 Frontend | React, Redux, Toolkit, HTML, CSS, Tailwind CSS, Bootstrap & MaterialUi.
 
-Metodología | Scrum.
+Methodology | Scrum.
 
 Version Control | Git & Github.
 
-Project Management | Slack, Jira & Trello.
+Project Management | Slack & Trello.
+
+English level | C1.
 <br/>
 <br/>
   
