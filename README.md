@@ -3,19 +3,17 @@
 
 Soy una desarrolladora Full Stack con experiencia en el desarrollo de páginas web, abarcando todas las etapas del proceso, desde la configuración de bases de datos hasta la implementación del back-end y el front-end. Siempre en busca de oportunidades para trabajar con un equipo en proyectos donde pueda utilizar y mejorar las habilidades y conocimientos adquiridos en estos ultimos años. 
 
-Estoy en busca de oportunidades emocionantes para trabajar en equipo en proyectos desafiantes. Mi objetivo es utilizar y mejorar las habilidades y conocimientos adquiridos en mi formación como desarrolladora Full Stack. Soy una profesional proactiva y entusiasta, siempre dispuesta a enfrentar nuevos desafíos y aprender cosas nuevas. Aspiro a seguir creciendo profesionalmente, explorando nuevas tecnologías y enfrentando desafíos que me permitan expandir mi expertise y aportar valor a los proyectos en los que participe.
 <br/>
 
 <hr/>
 
 I'm a Full Stack developer with experience in web development, covering all stages of the process from setting up databases to implementing both the back-end and front-end. I'm always on the lookout for opportunities to work with a team on projects where I can utilize and enhance the skills and knowledge I have acquired over the years.
 
-I am currently seeking exciting opportunities to work collaboratively on challenging projects. My goal is to utilize and enhance the skills and knowledge I have gained through my Full Stack development background. I'm a proactive and enthusiastic professional, always ready to take on new challenges and learn new things. I aspire to continue growing professionally by exploring new technologies and taking on challenges that allow me to expand my expertise and bring value to the projects I participate in.
 <br/>
 <br/>
 
 ### :small_red_triangle_down: Tecnologías
-Backend | Javascript, Python, Typescript, NodeJs, Express, Jquery, AJAX, Django, Flask, Jest, PostgreSQL, My SQL, Sequelize & Firebase.
+Backend | Javascript, Python, DOM, NodeJs, Express, Jquery, AJAX, Django, Flask, Jest, PostgreSQL, MySQL, Sequelize & Firebase.
 
 Frontend | React, Redux, Toolkit, HTML, CSS, Tailwind CSS, Bootstrap & MaterialUi.
 
