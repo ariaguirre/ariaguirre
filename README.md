@@ -11,9 +11,9 @@ I'm a Full Stack developer with experience in web development, covering all stag
 <br/>
 
 ### :small_red_triangle_down: Tecnologías
-Backend | Javascript, Python, DOM, NodeJs, Express, Jquery, AJAX, Django, Flask, Jest, PostgreSQL, MySQL, Sequelize & Firebase.
+Backend Development | Javascript, Python, PHP, DOM, Laravel, NodeJs, Express, Jquery, AJAX, Django, Flask, Jest, PostgreSQL, MySQL, Sequelize & Firebase.
 
-Frontend | React, Redux, Toolkit, HTML, CSS, Tailwind CSS, Bootstrap & MaterialUi.
+Frontend Development | React, Vue.js, Redux, Toolkit, HTML, CSS, Tailwind CSS, Bootstrap & MaterialUi.
 
 Methodology | Scrum.
 
